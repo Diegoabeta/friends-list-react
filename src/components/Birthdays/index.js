@@ -1,6 +1,6 @@
 import React from 'react'
 import './index.css'
-import { data } from '/Users/diegobetancourt/Documents/Microsoft User Data/react/friends-list-react/src/Data.js';
+import { data } from '../../Data.js';
 
 
 export const Birthdays = () => {
